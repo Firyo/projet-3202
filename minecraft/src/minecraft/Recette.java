@@ -13,7 +13,7 @@ import java.util.HashMap;
  */
 public class Recette {
     
-    private Item[] items = new Item[9]; // Tableau de 9 cases (Comme sur Minecraft)
+    private Item[] items = new Item[9];
     
     private Resultat resultat;
     
